@@ -22,3 +22,5 @@
 
 - [イラストをリアル風景に](https://www.itmedia.co.jp/news/articles/2106/24/news140.html)
 - [AI が合成したオンライン講座、NTT 子会社が無料配信　文章と講師の映像から講義動画を生成](https://www.itmedia.co.jp/news/articles/2103/12/news142.html)
+- [NVIDIA が 1 枚の 2D 画像からリアルな表情をした会話ビデオを合成できる技術「Vid2Vid Cameo」を開発](https://news.yahoo.co.jp/articles/53369d3a019ca12323fb7ddfab18b4ed00fd2475)
+- [音ゲーの“譜面”作りを AI で高速化　 KLab が「スクスタ」で活用、所要時間を半分に](https://news.yahoo.co.jp/articles/f0643e6d61cb1b79b4ff0d130349754b5cb64951)
