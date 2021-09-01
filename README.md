@@ -28,7 +28,7 @@
 
 - [ベタ塗りがリアルな風景に ──NVIDIA が AI イラストツールを無料公開　作ったデータはレイヤーごと Photoshop へ引き継ぎ可](https://www.itmedia.co.jp/news/articles/2106/24/news140.html)
 - [NVIDIA が 1 枚の 2D 画像からリアルな表情をした会話ビデオを合成できる技術「Vid2Vid Cameo」を開発](https://news.yahoo.co.jp/articles/53369d3a019ca12323fb7ddfab18b4ed00fd2475)
-- [石油タンクの検出精度を UP！？GAN を使って衛星データを水増ししてみた](https://sorabatake.jp/18467/)
+  - [石油タンクの検出精度を UP！？GAN を使って衛星データを水増ししてみた](https://sorabatake.jp/18467/)
 
 ### 音声系
 
